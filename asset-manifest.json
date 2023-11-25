@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movie-trends/static/css/main.cd2e038f.css",
+    "main.js": "/movie-trends/static/js/main.9011212a.js",
+    "static/js/206.408c6be6.chunk.js": "/movie-trends/static/js/206.408c6be6.chunk.js",
+    "static/js/408.e65a5fa1.chunk.js": "/movie-trends/static/js/408.e65a5fa1.chunk.js",
+    "static/js/305.30b268bd.chunk.js": "/movie-trends/static/js/305.30b268bd.chunk.js",
+    "static/js/791.5418b905.chunk.js": "/movie-trends/static/js/791.5418b905.chunk.js",
+    "index.html": "/movie-trends/index.html",
+    "main.cd2e038f.css.map": "/movie-trends/static/css/main.cd2e038f.css.map",
+    "main.9011212a.js.map": "/movie-trends/static/js/main.9011212a.js.map",
+    "206.408c6be6.chunk.js.map": "/movie-trends/static/js/206.408c6be6.chunk.js.map",
+    "408.e65a5fa1.chunk.js.map": "/movie-trends/static/js/408.e65a5fa1.chunk.js.map",
+    "305.30b268bd.chunk.js.map": "/movie-trends/static/js/305.30b268bd.chunk.js.map",
+    "791.5418b905.chunk.js.map": "/movie-trends/static/js/791.5418b905.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2e038f.css",
+    "static/js/main.9011212a.js"
+  ]
+}
